@@ -1,0 +1,14 @@
+D:\Windows programing\git repos\assignment-5-shivang-divya\ServerSide_a5\bin\Debug\ServerSide_a5.exe.config
+D:\Windows programing\git repos\assignment-5-shivang-divya\ServerSide_a5\bin\Debug\ServerSide_a5.exe
+D:\Windows programing\git repos\assignment-5-shivang-divya\ServerSide_a5\bin\Debug\ServerSide_a5.pdb
+D:\Windows programing\git repos\assignment-5-shivang-divya\ServerSide_a5\obj\Debug\ServerSide_a5.csproj.AssemblyReference.cache
+D:\Windows programing\git repos\assignment-5-shivang-divya\ServerSide_a5\obj\Debug\ServerSide_a5.csproj.CoreCompileInputs.cache
+D:\Windows programing\git repos\assignment-5-shivang-divya\ServerSide_a5\obj\Debug\ServerSide_a5.exe
+D:\Windows programing\git repos\assignment-5-shivang-divya\ServerSide_a5\obj\Debug\ServerSide_a5.pdb
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\ServerSide_a5\bin\Debug\ServerSide_a5.exe.config
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\ServerSide_a5\bin\Debug\ServerSide_a5.exe
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\ServerSide_a5\bin\Debug\ServerSide_a5.pdb
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\ServerSide_a5\obj\Debug\ServerSide_a5.csproj.AssemblyReference.cache
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\ServerSide_a5\obj\Debug\ServerSide_a5.csproj.CoreCompileInputs.cache
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\ServerSide_a5\obj\Debug\ServerSide_a5.exe
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\ServerSide_a5\obj\Debug\ServerSide_a5.pdb

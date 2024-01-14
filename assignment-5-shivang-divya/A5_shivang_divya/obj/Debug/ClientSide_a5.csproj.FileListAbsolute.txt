@@ -1,0 +1,42 @@
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\bin\Debug\A5_shivang_divya.exe.config
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\bin\Debug\A5_shivang_divya.exe
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\bin\Debug\A5_shivang_divya.pdb
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\ClientSide_a5.csproj.AssemblyReference.cache
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\App.g.cs
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya_MarkupCompile.cache
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya.g.resources
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya.Properties.Resources.resources
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\ClientSide_a5.csproj.GenerateResource.cache
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\ClientSide_a5.csproj.CoreCompileInputs.cache
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya.exe
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya.pdb
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\mainwindow.g.cs
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\mainwindow.baml
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya_MarkupCompile.lref
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\gamePage.g.cs
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\gamePage.baml
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\dashboard.g.cs
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\dashboard.baml
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\winningPage.g.cs
+D:\Windows programing\git repos\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\winningPage.baml
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\bin\Debug\A5_shivang_divya.exe.config
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\bin\Debug\A5_shivang_divya.exe
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\bin\Debug\A5_shivang_divya.pdb
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\ClientSide_a5.csproj.AssemblyReference.cache
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\mainwindow.baml
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\dashboard.g.cs
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\gamePage.g.cs
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\mainwindow.g.cs
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\winningPage.g.cs
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\App.g.cs
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya_MarkupCompile.cache
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya_MarkupCompile.lref
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\dashboard.baml
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\gamePage.baml
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\winningPage.baml
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya.g.resources
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya.Properties.Resources.resources
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\ClientSide_a5.csproj.GenerateResource.cache
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\ClientSide_a5.csproj.CoreCompileInputs.cache
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya.exe
+C:\Users\divya\OneDrive\Desktop\Sem 3\assignment-5-shivang-divya\A5_shivang_divya\obj\Debug\A5_shivang_divya.pdb
